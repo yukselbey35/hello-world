@@ -35,3 +35,5 @@
 
   
 </form>
+<h2>HTML Image</h2>
+<img src="https://cdn.pixabay.com/photo/2022/01/10/15/29/wind-mills-6928590_960_720.jpg" alt="Trulli" width="500" height="333">
