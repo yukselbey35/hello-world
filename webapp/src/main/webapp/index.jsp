@@ -32,13 +32,13 @@
                     <a class="nav-link active" aria-current="page" href="#">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="./latest.html" target="_blank">Latest</a>
+                    <a class="nav-link" href="./latest.html" >Latest</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#">About</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://yukselbey35.github.io/akblog/" target="_blank"Blog</a>
+                    <a class="nav-link" href="https://yukselbey35.github.io/akblog/">Blog</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="https://yukselbey35.github.io/responsive_web/">Approach</a>
