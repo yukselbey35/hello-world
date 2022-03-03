@@ -35,7 +35,7 @@
                     <a class="nav-link" href="./latest.html" >Latest</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://yukselbey35.github.io/bootstrap_hotel/">About</a>
+                    <a class="nav-link" href="https://yukselbey35.github.io/bootstrap_hotel/">AboutUs</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="https://yukselbey35.github.io/akblog/">Blog</a>
