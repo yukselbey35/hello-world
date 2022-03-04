@@ -1,7 +1,12 @@
+#containerPort on the deployment yaml file and 
+#targetPort must be same on service yaml
+
+#under the spec section labels must match
+#with deployment metadata>labels
 apiVersion: v1
 kind: Service
 metadata:
-  name: valaxy-service
+  name: yukselbey35-regapp
   labels:
     app: regapp 
 spec:

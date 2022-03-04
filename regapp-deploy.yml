@@ -1,7 +1,12 @@
+#containerPort on the deployment yaml file and 
+#targetPort must be same  on service yaml
+
+#under the metadata section labels must match
+#with service selector labels
 apiVersion: apps/v1 
 kind: Deployment
 metadata:
-  name: valaxy-regapp
+  name: yukselbey35-regapp
   labels: 
      app: regapp
 
@@ -18,7 +23,7 @@ spec:
     spec:
       containers:
       - name: regapp
-        image: valaxy/regapp
+        image: yukselbey35/regapp
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
