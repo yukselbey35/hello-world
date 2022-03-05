@@ -32,7 +32,7 @@
                     <a class="nav-link active" aria-current="page" href="#">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="./latest.html" >Latest</a>
+                    <a class="nav-link" href="./latest.html" >Latests</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="https://yukselbey35.github.io/bootstrap_hotel/">AboutUs</a>
