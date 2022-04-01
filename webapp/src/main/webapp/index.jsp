@@ -35,16 +35,16 @@
                     <a class="nav-link" href="./latest.html" target="_blank">Latests</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://yukselbey35.github.io/bootstrap_hotel/">AboutUs</a>
+                    <a class="nav-link" href="https://yukselbey35.github.io/bootstrap_hotel/" target="_blank">AboutUs</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://yukselbey35.github.io/akblog/">Blogs</a>
+                    <a class="nav-link" href="https://yukselbey35.github.io/akblog/" target="_blank">Blogs</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://yukselbey35.github.io/responsive_web/">Approach</a>
+                    <a class="nav-link" href="https://yukselbey35.github.io/responsive_web/" target="_blank">Approach</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://www.linkedin.com/in/yuksel-a-b032a2217/">OurTeamAK</a>
+                    <a class="nav-link" href="https://www.linkedin.com/in/yuksel-a-b032a2217/" target="_blank">OurTeamAK</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>
