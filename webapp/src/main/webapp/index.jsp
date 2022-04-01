@@ -22,7 +22,7 @@
     <header id="header">
         <nav class="navbar fixed-top sticky-top navbar-expand-md navbar-dark bg-danger py-3">
             <div class="container">
-              <a class="navbar-brand" href="https://www.linkedin.com/in/yuksel-a-b032a2217/">MR_AK</a>
+              <a class="navbar-brand" href="https://www.linkedin.com/in/yuksel-a-b032a2217/" target="_blank">MR_AK</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -32,7 +32,7 @@
                     <a class="nav-link active" aria-current="page" href="#">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="./latest.html" >Latests</a>
+                    <a class="nav-link" href="./latest.html" target="_blank">Latests</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="https://yukselbey35.github.io/bootstrap_hotel/">AboutUs</a>
@@ -786,7 +786,7 @@
 
     <!--FOOTER AREA-->
     <footer class="container-fluid bg-danger text-center py-4 lead-text-light">
-     <a href="https://www.linkedin.com/in/yuksel-a-b032a2217/"> NO &copy; 2021 MR.AK Web Design </a>
+     <a href="https://www.linkedin.com/in/yuksel-a-b032a2217/" target="_blank"> NO &copy; 2021 MR.AK Web Design </a>
     </footer>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
