@@ -44,7 +44,7 @@
                     <a class="nav-link" href="https://yukselbey35.github.io/responsive_web/">Approach</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://yukselbey35.github.io/Fitness-website/">OurTeamGym</a>
+                    <a class="nav-link" href="https://www.linkedin.com/in/yuksel-a-b032a2217/">OurTeamAK</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>
