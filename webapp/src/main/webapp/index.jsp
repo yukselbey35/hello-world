@@ -768,7 +768,9 @@
                   <td class="align-middle"><span class="text-light"><i class="bi bi-twitter"></i></span></td>
                   <td class="align-middle"><span class="text-light"><i class="bi bi-instagram"></i></span></td>
                   <td class="align-middle"><span class="text-light"><i class="bi bi-youtube"></i></span></td>
-                  <td href="https://www.linkedin.com/in/yuksel-a-b032a2217/" class="align-middle"><span class="text-light"><i class="bi bi-linkedin"></i></span></td>
+                  <a href="https://www.linkedin.com/in/yuksel-a-b032a2217/">
+                  <td class="align-middle"><span class="text-light"><i class="bi bi-linkedin"></i></span></td>
+                  </a>
                   <td class="align-middle"><span class="text-light"><i class="bi bi-google"></i></span></td>
                   <td class="align-middle"><span class="text-light"><i class="bi bi-github"></i></span></td>
                   <th scope="row" class="text-danger lead text-center">
