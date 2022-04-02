@@ -47,7 +47,7 @@
                     <a class="nav-link" href="https://www.linkedin.com/in/yuksel-a-b032a2217/" target="_blank">OurTeamAK</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="https://www.linkedin.com/in/yuksel-a-b032a2217/" target="_blank">Contact</a>
                   </li>
  
                 </ul>
