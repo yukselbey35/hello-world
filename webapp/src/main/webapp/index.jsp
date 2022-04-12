@@ -786,7 +786,7 @@
 
     <!--FOOTER AREA-->
     <footer class="container-fluid bg-danger text-center py-4 lead-text-light">
-     <a href="https://www.linkedin.com/in/yuksel-a-b032a2217/" target="_blank"> NO &copy; 2021 MR.AK Web Design </a>
+     <a href="https://www.linkedin.com/in/yuksel-a-b032a2217/" target="_blank"> NO &copy; 2021 MR.AK DevOps Engineer </a>
     </footer>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
